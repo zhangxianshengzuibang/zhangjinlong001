@@ -1,2 +1,3 @@
 # zhangjinlong001
 测试一个release
+这个文档是为了测试release功能
